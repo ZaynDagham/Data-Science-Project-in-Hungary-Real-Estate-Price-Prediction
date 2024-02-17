@@ -25,7 +25,7 @@ This project aims to predict real estate prices in Hungary using data science te
 
 ## Results
 - The project achieved promising results in predicting real estate prices.
-- The R2 scores for each city are as follows:
-  - Gyor: [0.73] Random Forest Regressor
-  - Budapest: [0.61] Gradient Boosting Regressor
-  - Pecs: [0.67] LightGBM
+- The R2 scores & Models for each city are as follows:
+  - Gyor: [0.73] - Random Forest Regressor
+  - Budapest: [0.61] - Gradient Boosting Regressor
+  - Pecs: [0.67] - LightGBM
